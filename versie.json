@@ -1,7 +1,7 @@
 {
-  "versie": "2.1",
+  "versie": "2.1.1",
   "datum": "2026-08-19",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v2.1/BeePN-v2.1.zip",
-  "sha256": "b646c1048beabddd968a858c182255fcfaea2c9714737f65ef73911d2e59b0c6",
-  "wat": "BeePN kan zichzelf bijwerken: onder Instellingen zit een knop die eenmalig kijkt of er iets nieuwers klaarstaat."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v2.1.1/BeePN-v2.1.1.zip",
+  "sha256": "0094a6012865d37c4cafe4a4214f6b2786fa399c6bec941c2c828fc5258012c5",
+  "wat": "Veiligheidsreparatie: BeePN startte netsh, ping en PowerShell op naam, waardoor een programma uit zijn eigen installatiemap meegenomen kon worden met beheerdersrechten. Bijwerken wordt aangeraden."
 }
