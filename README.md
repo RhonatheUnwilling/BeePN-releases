@@ -50,10 +50,11 @@ vanuit een uitgepakt pakket, dan staat de knop uit.
 
 1. `bouw_pakket.bat` draaien in de map van BeePN. Dat levert
    `pakket\BeePN-v<versie>.zip` — meteen de naam die de bijlage moet hebben —
-   en drukt de sha256 al af in de vorm waarin hij in `versie.json` hoort.
+   en zet er `pakket\versie.json` naast, met de vingerafdruk en de downloadlink
+   al ingevuld.
 2. Een release aanmaken met tag `v<versie>` en die zip als bijlage.
-3. `versie.json` in deze repo bijwerken: versienummer, datum, de downloadlink
-   van die bijlage, de sha256 en één regel over wat er nieuw is.
+3. `versie.json` in deze repo vervangen door de zojuist gemaakte, met bij
+   `wat` een regel over wat er nieuw is.
 
 Stap 3 is wat BeePN te zien krijgt. Zolang `versie.json` niet is bijgewerkt,
 merkt niemand dat er een release staat.
