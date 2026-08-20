@@ -1,7 +1,7 @@
 {
-  "versie": "3.1",
+  "versie": "3.2",
   "datum": "2026-08-20",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.1/BeePN-v3.1.zip",
-  "sha256": "c2b4cb49e3ae35ea6500909b6a8a33bc77eabf2f9757a7ab61d08a3511ff8302",
-  "wat": "BeePN draait voortaan alleen lokaal: hij legt uit zichzelf geen enkele verbinding meer naar buiten. De internetcontrole staat uit, net als het kijken of er een nieuwe versie is; bij Instellingen zit een vinkje om het weer aan te zetten. Verder een eigen knop voor Instellingen, geen rechtenstatus in de kop meer, en ruimtenummers in de vorm R.0012."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.2/BeePN-v3.2.zip",
+  "sha256": "9e363bfe80a63bcf0791f481395bf975069d3df6a7b7639db75c3cb253c0f6ba",
+  "wat": "De lijst heeft weer een grijs-wit-grijs achtergrond, regel om regel, die doorloopt over het lege deel eronder; de schuifbalk komt er alleen nog bij als er te schuiven valt. Verder is bij een gebouw alleen de naam nog verplicht - het IP-adres en de rest vul je aan wanneer je ze weet."
 }
