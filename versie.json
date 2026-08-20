@@ -1,7 +1,7 @@
 {
-  "versie": "3.0",
+  "versie": "3.1",
   "datum": "2026-08-20",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.0/BeePN-v3.0.zip",
-  "sha256": "f4051b4abda4cc54b13b76fae8c8840c5e1ad8cb4b22168576a923cdc31cc7f8",
-  "wat": "De gebouwenlijst is het hoofdvenster geworden, met regelkasten eronder: regelaarnummer, IP-adres, ruimtenummer en de RTO en het schema die je er zo uit opent. Het netwerkdeel zit achter de knop Netwerk."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.1/BeePN-v3.1.zip",
+  "sha256": "c2b4cb49e3ae35ea6500909b6a8a33bc77eabf2f9757a7ab61d08a3511ff8302",
+  "wat": "BeePN draait voortaan alleen lokaal: hij legt uit zichzelf geen enkele verbinding meer naar buiten. De internetcontrole staat uit, net als het kijken of er een nieuwe versie is; bij Instellingen zit een vinkje om het weer aan te zetten. Verder een eigen knop voor Instellingen, geen rechtenstatus in de kop meer, en ruimtenummers in de vorm R.0012."
 }
