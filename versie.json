@@ -1,7 +1,7 @@
 {
-  "versie": "3.3",
+  "versie": "3.4",
   "datum": "2026-08-20",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.3/BeePN-v3.3.zip",
-  "sha256": "9e1c04e85f0b3acaf489e3ed69ea8aef6cfdf6e0fd404e2ed5d9916df3d7b366",
-  "wat": "De mappen zijn eruit: er zijn nog twee lagen, gebouw en regelkast. Had je mappen, dan komen de gebouwen die erin stonden gewoon in de lijst te staan; er raakt niets kwijt. De kolommen IP-adres en Ruimte zijn uit de lijst gehaald - die horen bij de regelaar en staan in de opengeklapte regelkast. Verder beginnen de strepen nu met grijs en staat 'Alleen lokaal' weer standaard uit."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.4/BeePN-v3.4.zip",
+  "sha256": "bf2555c7198d5f2ebf00f06475a246e9e8c91b3014a97f368a251b7da25efa4a",
+  "wat": "Een IP PX-lijst erbij, naast de RTO en het schema; naast pdf kun je nu ook Word- en Excel-bestanden toevoegen. Je kiest zelf onder welke naam BeePN het bewaart - het vak staat al gevuld met de naam van het bestand dat je koos. Het regelaarnummer heet voortaan stationsnummer. Verder komt het venster 'Wat er nieuw is' alleen nog als je echt bijgewerkt hebt."
 }
