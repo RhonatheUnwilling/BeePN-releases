@@ -1,7 +1,7 @@
 {
-  "versie": "3.2",
+  "versie": "3.3",
   "datum": "2026-08-20",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.2/BeePN-v3.2.zip",
-  "sha256": "9e363bfe80a63bcf0791f481395bf975069d3df6a7b7639db75c3cb253c0f6ba",
-  "wat": "De lijst heeft weer een grijs-wit-grijs achtergrond, regel om regel, die doorloopt over het lege deel eronder; de schuifbalk komt er alleen nog bij als er te schuiven valt. Verder is bij een gebouw alleen de naam nog verplicht - het IP-adres en de rest vul je aan wanneer je ze weet."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.3/BeePN-v3.3.zip",
+  "sha256": "9e1c04e85f0b3acaf489e3ed69ea8aef6cfdf6e0fd404e2ed5d9916df3d7b366",
+  "wat": "De mappen zijn eruit: er zijn nog twee lagen, gebouw en regelkast. Had je mappen, dan komen de gebouwen die erin stonden gewoon in de lijst te staan; er raakt niets kwijt. De kolommen IP-adres en Ruimte zijn uit de lijst gehaald - die horen bij de regelaar en staan in de opengeklapte regelkast. Verder beginnen de strepen nu met grijs en staat 'Alleen lokaal' weer standaard uit."
 }
