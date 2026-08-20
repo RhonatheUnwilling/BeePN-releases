@@ -1,7 +1,7 @@
 {
-  "versie": "2.1.1",
-  "datum": "2026-08-19",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v2.1.1/BeePN-v2.1.1.zip",
-  "sha256": "0094a6012865d37c4cafe4a4214f6b2786fa399c6bec941c2c828fc5258012c5",
-  "wat": "Veiligheidsreparatie: BeePN startte netsh, ping en PowerShell op naam, waardoor een programma uit zijn eigen installatiemap meegenomen kon worden met beheerdersrechten. Bijwerken wordt aangeraden."
+  "versie": "3.0",
+  "datum": "2026-08-20",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.0/BeePN-v3.0.zip",
+  "sha256": "f4051b4abda4cc54b13b76fae8c8840c5e1ad8cb4b22168576a923cdc31cc7f8",
+  "wat": "De gebouwenlijst is het hoofdvenster geworden, met regelkasten eronder: regelaarnummer, IP-adres, ruimtenummer en de RTO en het schema die je er zo uit opent. Het netwerkdeel zit achter de knop Netwerk."
 }
