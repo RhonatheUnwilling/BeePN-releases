@@ -1,7 +1,7 @@
 {
-  "versie": "3.4",
-  "datum": "2026-08-20",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.4/BeePN-v3.4.zip",
-  "sha256": "bf2555c7198d5f2ebf00f06475a246e9e8c91b3014a97f368a251b7da25efa4a",
-  "wat": "Een IP PX-lijst erbij, naast de RTO en het schema; naast pdf kun je nu ook Word- en Excel-bestanden toevoegen. Je kiest zelf onder welke naam BeePN het bewaart - het vak staat al gevuld met de naam van het bestand dat je koos. Het regelaarnummer heet voortaan stationsnummer. Verder komt het venster 'Wat er nieuw is' alleen nog als je echt bijgewerkt hebt."
+  "versie": "3.5",
+  "datum": "2026-09-03",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.5/BeePN-v3.5.zip",
+  "sha256": "1b02b2cc32df013650aec779269a0c6d3f46ea989436f2a24273e322612278f8",
+  "wat": "Opgelost: een gebouw toevoegen liet de lijst leeg achter en daarna ging het venster ook niet meer dicht. Dezelfde fout zat bij het toevoegen van een regelkast, die geen eigen sleutel kreeg. Gaat er voortaan toch iets mis, dan krijg je een melding en draait BeePN door in plaats van vast te lopen. Verder wordt het opgehaalde pakket na het bijwerken opgeruimd."
 }
