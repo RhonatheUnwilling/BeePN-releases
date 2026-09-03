@@ -1,7 +1,7 @@
 {
-  "versie": "3.6",
+  "versie": "3.7",
   "datum": "2026-09-03",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.6/BeePN-v3.6.zip",
-  "sha256": "5e74e838f6de0e5863f5cf55fe6fa13264035af753bdb1270ef4ac298cb6c578",
-  "wat": "BeePN start niet meer met beheerdersrechten en ziet daardoor je gekoppelde netwerkschijven: een schema of RTO die op zo'n schijf staat kun je nu toevoegen. Die rechten worden alleen nog gevraagd op het moment dat je een IP-adres instelt. Verder onthoudt BeePN uit welke map je het laatst een document haalde."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.7/BeePN-v3.7.zip",
+  "sha256": "089d76640553409caf22df0b53882c95b5a9ceca5476b14385b542abe9cc4fda",
+  "wat": "Een vierde document erbij: het IBS-schema, naast de RTO, het schema en de IP PX-lijst. Werkt hetzelfde als de andere drie - pdf, Word of Excel, en je kiest zelf de bestandsnaam."
 }
