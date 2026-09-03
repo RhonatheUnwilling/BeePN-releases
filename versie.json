@@ -1,7 +1,7 @@
 {
-  "versie": "3.5",
+  "versie": "3.6",
   "datum": "2026-09-03",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.5/BeePN-v3.5.zip",
-  "sha256": "1b02b2cc32df013650aec779269a0c6d3f46ea989436f2a24273e322612278f8",
-  "wat": "Opgelost: een gebouw toevoegen liet de lijst leeg achter en daarna ging het venster ook niet meer dicht. Dezelfde fout zat bij het toevoegen van een regelkast, die geen eigen sleutel kreeg. Gaat er voortaan toch iets mis, dan krijg je een melding en draait BeePN door in plaats van vast te lopen. Verder wordt het opgehaalde pakket na het bijwerken opgeruimd."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.6/BeePN-v3.6.zip",
+  "sha256": "5e74e838f6de0e5863f5cf55fe6fa13264035af753bdb1270ef4ac298cb6c578",
+  "wat": "BeePN start niet meer met beheerdersrechten en ziet daardoor je gekoppelde netwerkschijven: een schema of RTO die op zo'n schijf staat kun je nu toevoegen. Die rechten worden alleen nog gevraagd op het moment dat je een IP-adres instelt. Verder onthoudt BeePN uit welke map je het laatst een document haalde."
 }
