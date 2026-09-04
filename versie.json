@@ -1,7 +1,7 @@
 {
-  "versie": "3.7",
+  "versie": "3.8",
   "datum": "2026-09-03",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.7/BeePN-v3.7.zip",
-  "sha256": "089d76640553409caf22df0b53882c95b5a9ceca5476b14385b542abe9cc4fda",
-  "wat": "Een vierde document erbij: het IBS-schema, naast de RTO, het schema en de IP PX-lijst. Werkt hetzelfde als de andere drie - pdf, Word of Excel, en je kiest zelf de bestandsnaam."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.8/BeePN-v3.8.zip",
+  "sha256": "25d963c7f448cc9268d3bd049d0a3190935df70a55c46d28f4906dd068be0b9c",
+  "wat": "Schema heet nu Kast-schema en staat altijd direct boven het IBS-schema. Notitie is een eigen, altijd zichtbare regel geworden - erop klikken opent meteen een invoerveld. Station, IP-adres en Ruimte staan gegroepeerd onder een kopje Info. Een document hernoemen kan nu ook los van het bestand vervangen, via de rechtermuisknop."
 }
