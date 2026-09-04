@@ -1,7 +1,7 @@
 {
-  "versie": "3.8",
-  "datum": "2026-09-03",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.8/BeePN-v3.8.zip",
-  "sha256": "25d963c7f448cc9268d3bd049d0a3190935df70a55c46d28f4906dd068be0b9c",
-  "wat": "Schema heet nu Kast-schema en staat altijd direct boven het IBS-schema. Notitie is een eigen, altijd zichtbare regel geworden - erop klikken opent meteen een invoerveld. Station, IP-adres en Ruimte staan gegroepeerd onder een kopje Info. Een document hernoemen kan nu ook los van het bestand vervangen, via de rechtermuisknop."
+  "versie": "3.9",
+  "datum": "2026-09-04",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9/BeePN-v3.9.zip",
+  "sha256": "6d51f1da2037fbf50fb5e1193fea73878c6785901bc1e86aac6f0c7b6c4c5deb",
+  "wat": "De lijst is opgeruimd: stationsnummer en IP-adres staan nu tussen haakjes achter de naam van de regelkast, de kolom Station is vervallen en onder een opengeklapte kast hangen alleen nog de vier documenten. Achter elk document staat wanneer het voor het laatst gewijzigd is, en uit de bestandsnaam valt weg wat er links al staat. De notitie wijzig je door dubbel te klikken in de kolom Notitie. Pingen gaat voortaan via een opdrachtvenster van Windows."
 }
