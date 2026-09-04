@@ -1,7 +1,7 @@
 {
-  "versie": "3.9",
+  "versie": "3.9.1",
   "datum": "2026-09-04",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9/BeePN-v3.9.zip",
-  "sha256": "6d51f1da2037fbf50fb5e1193fea73878c6785901bc1e86aac6f0c7b6c4c5deb",
-  "wat": "De lijst is opgeruimd: stationsnummer en IP-adres staan nu tussen haakjes achter de naam van de regelkast, de kolom Station is vervallen en onder een opengeklapte kast hangen alleen nog de vier documenten. Achter elk document staat wanneer het voor het laatst gewijzigd is, en uit de bestandsnaam valt weg wat er links al staat. De notitie wijzig je door dubbel te klikken in de kolom Notitie. Pingen gaat voortaan via een opdrachtvenster van Windows."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.1/BeePN-v3.9.1.zip",
+  "sha256": "ea9efab34113d7e2de7f7d401463748354b95239f7dc8964740619624cf15756",
+  "wat": "Het stationsnummer en het IP-adres achter de naam van een regelkast staan nu elk in hun eigen haakjes, met een streepje ertussen: (reg. 1111108) - (ip. 10.11.30.108). Kom je van v3.8 of ouder, dan krijg je ook alles van v3.9 mee: de opgeruimde lijst, de wijzigingsdatum bij elk document en pingen via een opdrachtvenster van Windows."
 }
