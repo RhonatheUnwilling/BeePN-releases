@@ -1,7 +1,7 @@
 {
-  "versie": "3.9.1",
+  "versie": "3.9.2",
   "datum": "2026-09-04",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.1/BeePN-v3.9.1.zip",
-  "sha256": "ea9efab34113d7e2de7f7d401463748354b95239f7dc8964740619624cf15756",
-  "wat": "Het stationsnummer en het IP-adres achter de naam van een regelkast staan nu elk in hun eigen haakjes, met een streepje ertussen: (reg. 1111108) - (ip. 10.11.30.108). Kom je van v3.8 of ouder, dan krijg je ook alles van v3.9 mee: de opgeruimde lijst, de wijzigingsdatum bij elk document en pingen via een opdrachtvenster van Windows."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.2/BeePN-v3.9.2.zip",
+  "sha256": "4db0c51150ede36635b77749519c8b51563ffe54551726dd0f96e4f96b903608",
+  "wat": "Een document dat nog niet is toegevoegd krijgt geen regel meer in de lijst. Dat er iets ontbreekt zie je aan de nieuwe kolom Documenten, die 1 / 4 laat zien zolang er iets mist en leeg blijft zodra alles er is. Staat er nog geen notitie bij zo'n kast, dan wijst de kolom Notitie de weg met 'rechtermuisknop toevoegen'."
 }
