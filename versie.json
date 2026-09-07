@@ -1,7 +1,7 @@
 {
-  "versie": "3.9.3",
+  "versie": "3.9.4",
   "datum": "2026-09-07",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.3/BeePN-v3.9.3.zip",
-  "sha256": "581e703efaa62ed1c1bc03861179f40a2fffa7df7b4ee8e714b1c895742a2026",
-  "wat": "Twee knopjes rechts in de balk: Alles open en Alles dicht. Daarmee klap je de hele lijst in een keer open of dicht, gebouwen en regelkasten samen. Hoe je het achterlaat, zo staat het er bij de volgende start weer bij."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.4/BeePN-v3.9.4.zip",
+  "sha256": "96ed97f4f4baa97b19445d1925b5fe8c80d67203e2e721f0b65d073fc3f84098",
+  "wat": "Links in de kop van de lijst staat nu een vierkantje: een min als alles openstaat, een plus als alles dicht is. Klik erop en de hele lijst klapt in een keer de andere kant op, gebouwen en regelkasten samen. De twee knoppen die daar in v3.9.3 kort voor in de balk stonden zijn daarmee vervallen."
 }
