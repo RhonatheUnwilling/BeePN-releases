@@ -1,7 +1,7 @@
 {
-  "versie": "3.9.2",
-  "datum": "2026-09-04",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.2/BeePN-v3.9.2.zip",
-  "sha256": "4db0c51150ede36635b77749519c8b51563ffe54551726dd0f96e4f96b903608",
-  "wat": "Een document dat nog niet is toegevoegd krijgt geen regel meer in de lijst. Dat er iets ontbreekt zie je aan de nieuwe kolom Documenten, die 1 / 4 laat zien zolang er iets mist en leeg blijft zodra alles er is. Staat er nog geen notitie bij zo'n kast, dan wijst de kolom Notitie de weg met 'rechtermuisknop toevoegen'."
+  "versie": "3.9.3",
+  "datum": "2026-09-07",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.3/BeePN-v3.9.3.zip",
+  "sha256": "581e703efaa62ed1c1bc03861179f40a2fffa7df7b4ee8e714b1c895742a2026",
+  "wat": "Twee knopjes rechts in de balk: Alles open en Alles dicht. Daarmee klap je de hele lijst in een keer open of dicht, gebouwen en regelkasten samen. Hoe je het achterlaat, zo staat het er bij de volgende start weer bij."
 }
