@@ -1,7 +1,7 @@
 {
-  "versie": "3.9.6",
-  "datum": "2026-09-08",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v3.9.6/BeePN-v3.9.6.zip",
-  "sha256": "8be5f2b35f86e766b9d199ec6909c25ce000f65eaac8bf0e8b3d9acd0f36f3ed",
-  "wat": "Het venster schaalt mee met de langste regel die in beeld staat. De kolommen worden op maat gezet en het venster wordt daar precies zo breed voor als nodig: breder zodra je een regelkast openklapt met lange bestandsnamen erin, en weer smaller als je hem dichtklapt. Smaller dan de knoppenbalk wordt hij niet, en breder dan je scherm ook niet."
+  "versie": "4.0",
+  "datum": "2026-09-09",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.0/Bog-v4.0.zip",
+  "sha256": "07f6b23e8c10aca7a2293a453d2c3cef1e8527abab2e5247b933eb5820c86f58",
+  "wat": "BeePN heet vanaf nu Bog. Je gebouwen, documenten en instellingen verhuizen mee en de oude installatie wordt opgeruimd. Verder: zoeken in de lijst, export met documenten erbij, reservekopieen van je lijst, terugzetten hoe je netwerkkaart stond, en een donker venster."
 }
