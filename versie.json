@@ -1,7 +1,7 @@
 {
-  "versie": "4.0",
-  "datum": "2026-09-09",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.0/Bog-v4.0.zip",
-  "sha256": "07f6b23e8c10aca7a2293a453d2c3cef1e8527abab2e5247b933eb5820c86f58",
-  "wat": "BeePN heet vanaf nu Bog. Je gebouwen, documenten en instellingen verhuizen mee en de oude installatie wordt opgeruimd. Verder: zoeken in de lijst, export met documenten erbij, reservekopieen van je lijst, terugzetten hoe je netwerkkaart stond, en een donker venster."
+  "versie": "4.1",
+  "datum": "2026-09-10",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.1/Bog-v4.1.zip",
+  "sha256": "ff64c8d56599b73661bbc8cf56ff53cb5a3a5ae62c7c72b8faa0f45518166c88",
+  "wat": "In de invulvensters was de tekst die je typte zwart op een donkere achtergrond en dus niet te lezen; dat is hersteld, ook voor de cursor en geselecteerde tekst. Verder is het moeras-palet lichter en groener geworden: de vlakken zelf zijn nu mosgroen in plaats van bijna zwart."
 }
