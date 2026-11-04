@@ -1,7 +1,7 @@
 {
-  "versie": "4.1.1",
-  "datum": "2026-09-11",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.1.1/Bog-v4.1.1.zip",
-  "sha256": "810de9c7d2eae671874037645ab34c0f00149611da6e701e17ef64d95b2ac0f2",
-  "wat": "Een document toevoegen liep vast op 'er staat al een bestand met die naam', ook als dat geen bezwaar was. Nu is het pas een botsing als het een ander bestand is dat ergens anders in de lijst in gebruik is. Dezelfde tekening mag nu aan twee kasten hangen, en een restant waar niemand meer naar wijst wordt overschreven. Bij een echte botsing zegt de melding aan welke kast het bestand hangt."
+  "versie": "4.2",
+  "datum": "2026-11-04",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.2/Bog-v4.2.zip",
+  "sha256": "a9bcc15f5aafb2053ec5eae39ce20fb59425fdd66a451d885fc7035683730a18",
+  "wat": "Bij Instellingen staat nu een keuze voor de tekstgrootte: Normaal, Groter of Grootst. Alles groeit mee - de lijst, de knoppen, de vensters en de hoogte van de regels - dus er wordt niets afgeknipt. Verder leest de versiegeschiedenis prettiger: losse alinea's met een streepje ervoor in plaats van een lap tekst."
 }
