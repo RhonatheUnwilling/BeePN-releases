@@ -1,7 +1,7 @@
 {
-  "versie": "4.3",
+  "versie": "4.4",
   "datum": "2026-11-10",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.3/Bog-v4.3.zip",
-  "sha256": "5bf996d6c811d36d2b9e44385b8f3b3696e0690e99ac10e297c1dbe2fc9bed46",
-  "wat": "Gebouwen kunnen in regio's. Bij een gebouw staat nu een veld Regio; vul je daar bij meerdere gebouwen hetzelfde in, dan komen ze in de lijst onder een regioregel bij elkaar te staan, met een eigen icoontje. De naam bepaal je zelf en hoofdletters maken geen verschil. Laat je het veld leeg, dan staat het gebouw gewoon los tussen de regio's."
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.4/Bog-v4.4.zip",
+  "sha256": "a6c9afa3fb71c654e30e755452d578fde11ab99a6470381f9736a93c210f9912",
+  "wat": "Een regio is nu iets dat je zelf aanmaakt met de knop Regio toevoegen, en geen veld meer bij het gebouw. Een gebouw zet je erin door het erheen te slepen, of met de rechtermuisknop. Rechtsklikken op een regio geeft hernoemen en verwijderen. Wat je in v4.3 hebt ingetypt wordt gewoon overgenomen."
 }
