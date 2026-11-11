@@ -1,7 +1,7 @@
 {
-  "versie": "4.4",
-  "datum": "2026-11-10",
-  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.4/Bog-v4.4.zip",
-  "sha256": "a6c9afa3fb71c654e30e755452d578fde11ab99a6470381f9736a93c210f9912",
-  "wat": "Een regio is nu iets dat je zelf aanmaakt met de knop Regio toevoegen, en geen veld meer bij het gebouw. Een gebouw zet je erin door het erheen te slepen, of met de rechtermuisknop. Rechtsklikken op een regio geeft hernoemen en verwijderen. Wat je in v4.3 hebt ingetypt wordt gewoon overgenomen."
+  "versie": "4.5",
+  "datum": "2026-11-11",
+  "zip": "https://github.com/RhonatheUnwilling/BeePN-releases/releases/download/v4.5/Bog-v4.5.zip",
+  "sha256": "2f7fef7d5b106238e979dbd7f5ce338261991b928f7ad2976d0e23efa4ab18ca",
+  "wat": "De VPN-instelling is eruit: de vraag bij de eerste start gaat nu alleen nog over de taal, en het blok VPN is uit Instellingen en uit het netwerkoverzicht weg. VPN-kaarten blijven wel uit de adapterlijst bij IP instellen. Het hoofdvenster opent op de maat van je lijst, met hoogstens twee lege regels eronder, en het venster Instellingen is in de hoogte te verschalen."
 }
